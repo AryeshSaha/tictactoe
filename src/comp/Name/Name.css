@@ -1,0 +1,14 @@
+.name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    word-spacing: 0.5rem;
+    line-height: 3rem;
+    color: rgb(0, 195, 255);
+    text-align: center;
+    margin: 2px;
+    padding: 3px;
+    /* border: 2px solid pink; */
+}

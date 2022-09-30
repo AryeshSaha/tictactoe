@@ -1,0 +1,8 @@
+.c{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(0, 195, 255);
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid pink; */
+}
